@@ -1,0 +1,20 @@
+.pinkish {
+  background-color: #ffaaaa;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+
+}
+
+.big {
+  font-size: 24px;
+}
+
+#big-blue {
+  font-size: 36px;
+  color: #1199ff
+}
+
+#green-guy {
+  background-color: #83f183;
+  font-size: 24px;
+  font-weight: bold;
+}
